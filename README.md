@@ -8,14 +8,14 @@
 
 ## 🚀 Recursos disponíveis
 
-- 📚 **Banco de Enunciados**: provas, testes e exames dos anos anteriores por curso, disciplina e docente.
-- 🧠 **Material Didático**: slides, livros, resumos e tutoriais enviados por professores ou veteranos.
-- 🤝 **Garimpo**: lista de alunos e ex-alunos disponíveis para ajudar com explicações e dúvidas.
-- 🧑‍🏫 **Mentorias rápidas**: marque sessões com veteranos que já passaram pela mesma cadeira.
-- 🔍 **Busca inteligente**: encontre conteúdos por nome da disciplina, docente ou área temática.
-- 📅 **Calendário acadêmico**: fique por dentro de avaliações, defesas, feriados e datas críticas.
-- 💬 **Fórum estudantil**: espaço aberto para tirar dúvidas, organizar grupos de estudo e desabafar 😅.
-- 📥 **Upload de conteúdos**: qualquer aluno pode contribuir com materiais, tudo passa por curadoria.
+-  **Banco de Enunciados**: provas, testes e exames dos anos anteriores por curso, disciplina e docente.
+-  **Material Didático**: slides, livros, resumos e tutoriais enviados por professores ou veteranos.
+-  **Garimpo**: lista de alunos e ex-alunos disponíveis para ajudar com explicações e dúvidas.
+-  **Mentorias rápidas**: marque sessões com veteranos que já passaram pela mesma cadeira.
+-  **Busca inteligente**: encontre conteúdos por nome da disciplina, docente ou área temática.
+-  **Calendário acadêmico**: fique por dentro de avaliações, defesas, feriados e datas críticas.
+-  **Fórum estudantil**: espaço aberto para tirar dúvidas, organizar grupos de estudo e desabafar 😅.
+-  **Upload de conteúdos**: qualquer aluno pode contribuir com materiais, tudo passa por curadoria.
 
 ---
 

@@ -24,7 +24,7 @@
 - [Laravel 11.x](https://laravel.com/)
 - [MySQL 8.x](https://www.mysql.com/)
 - [Docker + Docker Compose](https://www.docker.com/)
-- HTML, CSS (Bootstrap), JavaScript (Alpine.js)
+- HTML, CSS (Tailwind), JavaScript (Alpine.js)
 
 ---
 

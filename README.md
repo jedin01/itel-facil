@@ -52,3 +52,50 @@ docker-compose up -d
 
 # Execute as migrations
 docker exec -it itel-facil-app php artisan migrate --seed
+```
+
+## 🧑‍💻 Como contribuir
+
+Quer somar? Toda ajuda é bem-vinda!
+
+1. Faça um fork do repositório
+2. Crie uma branch com sua feature:
+
+    ```bash
+    git checkout -b minha-feature
+    ```
+
+3. Faça o commit das suas alterações:
+
+    ```bash
+    git commit -m 'Adiciona nova funcionalidade'
+    ```
+
+4. Faça o push para a branch:
+
+    ```bash
+    git push origin minha-feature
+    ```
+
+5. Abra um Pull Request explicando bem sua contribuição
+
+---
+
+## 📌 Próximos passos (roadmap)
+
+- [ ] Sistema de login com integração ao e-mail institucional  
+- [ ] Upload e curadoria colaborativa de conteúdos  
+- [ ] Gamificação para quem mais ajuda no fórum/garimpo  
+- [ ] Área de denúncias para materiais errados ou conteúdos desatualizados  
+- [ ] API pública para apps móveis  
+
+---
+
+## 🤲 Apoie a causa
+
+Se você já sofreu pra encontrar uma prova antiga, teve que estudar só com print,  
+ou sentiu falta de alguém pra te explicar “aquela matéria do Manico”...  
+esse projeto é pra você.
+
+**Compartilhe. Contribua. E bora facilitar o ITEL.**
+

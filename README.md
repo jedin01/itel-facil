@@ -81,16 +81,6 @@ Quer somar? Toda ajuda é bem-vinda!
 
 ---
 
-## 📌 Próximos passos (roadmap)
-
-- [ ] Sistema de login com integração ao e-mail institucional  
-- [ ] Upload e curadoria colaborativa de conteúdos  
-- [ ] Gamificação para quem mais ajuda no fórum/garimpo  
-- [ ] Área de denúncias para materiais errados ou conteúdos desatualizados  
-- [ ] API pública para apps móveis  
-
----
-
 ## 🤲 Apoie a causa
 
 Se você já sofreu pra encontrar uma prova antiga, teve que estudar só com print,  

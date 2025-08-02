@@ -53,6 +53,7 @@ docker-compose up -d
 # Execute as migrations
 docker exec -it itel-facil-app php artisan migrate --seed
 ```
+---
 
 ## 🧑‍💻 Como contribuir
 

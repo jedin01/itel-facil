@@ -1,8 +1,8 @@
-#  nexus
+#  itel-facil
 
 **Facilitando a vida de quem estuda no ITEL – porque ninguém precisa sofrer sozinho!**
  
-`nexus` é uma plataforma de apoio estudantil criada com Laravel, React, MySQL e Docker, voltada especialmente para os estudantes do **Instituto de Telecomunicações (ITEL)**. Aqui, os alunos encontram um verdadeiro **centro de sobrevivência acadêmica**: enunciados de exames anteriores, material didático organizado por disciplinas, fóruns de dúvidas, contato com veteranos solidários, e outras ferramentas para atravessar o curso com menos dor de cabeça.
+`itel-facil` é uma plataforma de apoio estudantil criada com Laravel, React, MySQL e Docker, voltada especialmente para os estudantes do **Instituto de Telecomunicações (ITEL)**. Aqui, os alunos encontram um verdadeiro **centro de sobrevivência acadêmica**: enunciados de exames anteriores, material didático organizado por disciplinas, fóruns de dúvidas, contato com veteranos solidários, e outras ferramentas para atravessar o curso com menos dor de cabeça.
 
 ---
 

@@ -22,7 +22,6 @@ return new class extends Migration {
                 ->onDelete("cascade");
             $table->timestamps();
 
-            // Unique constraint para evitar duplicatas
             $table->unique(["id_aluno", "id_curso"]);
         });
     }

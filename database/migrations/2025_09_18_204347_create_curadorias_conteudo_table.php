@@ -31,11 +31,7 @@ return new class extends Migration {
                 ->default("pendente");
             $table->timestamp("data_avaliacao")->nullable();
             $table->timestamps();
-
-            // Constraint para garantir que pelo menos um dos dois seja preenchido
-            $table->check(
-                "(id_material IS NOT NULL AND id_enunciado IS NULL) OR (id_material IS NULL AND id_enunciado IS NOT NULL)",
-            );
+            
         });
     }
 
